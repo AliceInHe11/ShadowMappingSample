@@ -1,0 +1,21 @@
+﻿  Source.cpp
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(181,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(181,41): warning C4244:         with
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(181,41): warning C4244:         [
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(181,41): warning C4244:             T=float
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(181,41): warning C4244:         ]
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(182,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(182,41): warning C4244:         with
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(182,41): warning C4244:         [
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(182,41): warning C4244:             T=float
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(182,41): warning C4244:         ]
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(183,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(183,26): warning C4244:         with
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(183,26): warning C4244:         [
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(183,26): warning C4244:             T=float
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(183,26): warning C4244:         ]
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(285,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(286,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\3d\shadow_mapping\shadow_mapping\Source.cpp(287,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  shadow_mapping.vcxproj -> D:\3d\shadow_mapping\x64\Debug\shadow_mapping.exe
